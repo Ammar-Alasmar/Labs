@@ -1,21 +1,25 @@
 body {
-    background-color: lightcoral;
+  background-color: lightcoral;
 }
 
 h1 {
-    text-align: center;
-    margin: 1.5em 0;
-    background-color: lightblue;
+  text-align: center;
+  margin: 1.5em 0;
+  background-color: lightblue;
 }
 
 .bio {
-    background-color: lightblue;
-    text-align: center;
-    line-height: 1.6;
-    font-size: 16px;
+  background-color: lightblue;
+  text-align: center;
+  line-height: 1.6;
+  font-size: 16px;
 }
 
 #welcome {
-    background-color: lightblue;
-    text-align: center;
+  background-color: lightblue;
+  text-align: center;
+}
+
+ul {
+  list-style: circle;
 }
